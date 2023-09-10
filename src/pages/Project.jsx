@@ -18,7 +18,7 @@ const Project = () => {
         </div>
         <div className="grid grid-cols-1 gap-x-8 gap-y-4 md:grid-cols-2">
           <a
-            href="tmdb-movie-sigma.vercel.app"
+            href="https://tmdb-movie-sigma.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-newtab group"
@@ -82,7 +82,7 @@ const Project = () => {
             </div>
           </a>
           <a
-            href="bella-springbed.vercel.app"
+            href="https://bella-springbed.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-newtab group"
@@ -146,7 +146,7 @@ const Project = () => {
             </div>
           </a>
           <a
-            href="hilalfadilah.github.io/website-kopi/"
+            href="https://chilalfadilah.github.io/website-kopi/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-newtab group"
@@ -225,7 +225,7 @@ const Project = () => {
             </div>
           </a>
           <a
-            href="hilalfadilah.github.io/Project-NFT/"
+            href="https://hilalfadilah.github.io/Project-NFT/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-newtab group"
@@ -292,7 +292,7 @@ const Project = () => {
             </div>
           </a>
           <a
-            href="e-commorce-reactjs.vercel.app"
+            href="https://e-commorce-reactjs.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-newtab group"

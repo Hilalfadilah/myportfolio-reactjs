@@ -118,7 +118,7 @@ const Home = () => {
           </h3>
           <div className="mt-2 grid grid-cols-1 gap-4 md:grid-cols-2 font-Fira">
             <a
-              href="tmdb-movie-sigma.vercel.app"
+              href="https://tmdb-movie-sigma.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-newtab relative w-full overflow-hidden rounded-md hover:outline hover:outline-zinc-400 duration-200 ease-in hover:-translate-y-1"
@@ -135,7 +135,7 @@ const Home = () => {
               </h4>
             </a>
             <a
-              href="bella-springbed.vercel.app"
+              href="https://bella-springbed.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-newtab relative w-full overflow-hidden rounded-md hover:outline hover:outline-zinc-400 duration-200 ease-in hover:-translate-y-1"
@@ -152,7 +152,7 @@ const Home = () => {
               </h4>
             </a>
             <a
-              href="hilalfadilah.github.io/website-kopi/"
+              href="https://hilalfadilah.github.io/website-kopi/"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-newtab relative w-full overflow-hidden rounded-md hover:outline hover:outline-zinc-400  duration-200 ease-in hover:-translate-y-1"
@@ -169,7 +169,7 @@ const Home = () => {
               </h4>
             </a>
             <a
-              href="hilalfadilah.github.io/Project-NFT/"
+              href="https://hilalfadilah.github.io/Project-NFT/"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-newtab relative w-full overflow-hidden rounded-md hover:outline hover:outline-zinc-400 dark:hover:outline-zinc-100 duration-200 ease-in hover:-translate-y-1"
@@ -186,7 +186,7 @@ const Home = () => {
               </h4>
             </a>
             <a
-              href="e-commorce-reactjs.vercel.app"
+              href="https://e-commorce-reactjs.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor-newtab relative w-full overflow-hidden rounded-md hover:outline hover:outline-zinc-400 dark:hover:outline-zinc-100 duration-200 ease-in hover:-translate-y-1"
