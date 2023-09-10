@@ -185,6 +185,23 @@ const Home = () => {
                 NFT Website
               </h4>
             </a>
+            <a
+              href="e-commorce-reactjs.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="cursor-newtab relative w-full overflow-hidden rounded-md hover:outline hover:outline-zinc-400 dark:hover:outline-zinc-100 duration-200 ease-in hover:-translate-y-1"
+            >
+              <img
+                className="w-full brightness-90 hover:brightness-100 transition duration-500 scale-100 blur-0"
+                alt="featured-project"
+                loading="lazy"
+                decoding="async"
+                src="/E-commerce.png"
+              />
+              <h4 className="absolute inset-x-0 bottom-0 w-full bg-[#2b3140] bg-opacity-75 py-2 text-center text-base text-[#e7e7e9]">
+                Hilal Store
+              </h4>
+            </a>
           </div>
           <a
             className="inline-flex items-center rounded px-4 py-2 font-semibold focus:outline-none focus-visible:ring focus-visible:ring-[#78b6bf] shadow-sm transition-colors duration-75 text-[#78b6bf] border border-[#78b6bf] hover:bg-[#78b6bf]/50 hover:underline active:bg-[#78b6bf] disabled:bg-[#78b6bf] disabled:cursor-not-allowed mt-4 w-full justify-center font-Fira"

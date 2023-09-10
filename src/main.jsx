@@ -5,6 +5,7 @@ import "./index.css";
 import Home from "./pages/Home";
 import Project from "./pages/Project";
 import About from "./pages/About";
+import Custom404 from "./pages/404";
 
 const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/aboutme",
     element: <About />,
+  },
+  {
+    path: "*",
+    element: <Custom404 />,
   },
 ]);
 
